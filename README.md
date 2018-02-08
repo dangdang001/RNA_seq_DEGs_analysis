@@ -14,6 +14,6 @@
 
 # 3. Update your R into the most recent version (3.4.3). Use Rstudio if possible.
 
-# 4. Open the file "DEGs_analysis_template_20180129.R" under the "code" folder using R/Rstudio. Run with the instruction in the code.
+# 4. Open the file "DEGs_analysis_template.R" under the "code" folder using R/Rstudio. Run with the instruction in the code.
 
 # 5. Folder "Results_KO123_vs_Ctrl1234" contains the one set of analysis results Comparing KO samples 1,2,3 vs Control samples 1,2,3,4.
