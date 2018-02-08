@@ -8,8 +8,6 @@
 #####################################################################
 
 
-# change the following address to the working directory you chosed (note: use "/" instead of "\") 
-
 setwd("C:/Users/dyin/Documents/RNA-seq project-20171213")
 
 
